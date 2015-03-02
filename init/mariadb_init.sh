@@ -1,0 +1,5 @@
+#!/bin/bash
+# Author: Tekin
+# Website: http://dev.tekin.cn
+# Install needed packages for Mariadb
+apt-get -y install build-essential dpkg-dev devscripts hardening-wrapper autoconf automake1.9 autotools-dev binutils bison chrpath debhelper defoma doxygen dpatch dvipdfmx fakeroot fontconfig-config g++ g++-4.3 gawk gcc gcc-4.3 gettext ghostscript ghostscript-x gs gsfonts html2text intltool-debian libc6-dev libcroco3 libcups2 libcupsimage2 libfontconfig1 libfontenc1 libfreetype6 libgomp1 libgs8 libice6 libjpeg62 libkpathsea4 libltdl7 libltdl7-dev libmail-sendmail-perl libncurses5-dev libpaper-utils libpaper1 libpng12-0 libpoppler4 libreadline5-dev libsm6 libstdc++6-4.3-dev libsys-hostname-long-perl libtiff4 libtool libwrap0-dev libxaw7 libxfont1 libxmu6 libxpm4 libxt6 linux-libc-dev lmodern m4 make patchutils po-debconf psfontmgr tex-common texlive-base texlive-base-bin texlive-base-bin-doc texlive-common texlive-doc-base texlive-latex-base texlive-latex-base-doc ttf-dejavu ttf-dejavu-core ttf-dejavu-extra xfonts-encodings xfonts-utils zlib1g-dev
